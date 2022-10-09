@@ -1,0 +1,18 @@
+.Estado-Activado{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.Estado-Desactivado{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.Contenedor-Estado-Matricula{
+    display: flex;
+    justify-content: center;
+}
